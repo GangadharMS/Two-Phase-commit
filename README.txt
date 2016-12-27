@@ -1,6 +1,3 @@
-﻿CS557 Introduction to Distributed Systems
-Fall 2016
-PROJECT-3 README FILE
 
 Author: Gangadhara Maddur Srikantaiah
 e-mail: gmaddur1@binghamton.edu
