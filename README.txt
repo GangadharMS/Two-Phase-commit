@@ -2,12 +2,8 @@
 Fall 2016
 PROJECT-3 README FILE
 
-Due Date: Sunday, Dec 4, 2016
-Submission Date: Sunday, Dec 4, 2016
-Grace Period Used This Project: 0 days
-Grace Period Remaining: N/A
-Author: Gangadhara Maddur Srikantaiah, Sachin Mahadevaprasad
-e-mail: gmaddur1@binghamton.edu, smahade2@binghamton.edu
+Author: Gangadhara Maddur Srikantaiah
+e-mail: gmaddur1@binghamton.edu
 
 PURPOSE:
 Purpose of this project is to implement Two-Phase commit algorithm to a file server and client using Apache thrift framework.
@@ -67,14 +63,6 @@ Coordinator:
 Client:
 ./client.sh <ip address of coordinator> <port number of coordinator> <listOfFiles.txt> <listOfOperations.txt> <number of threads to run>
 
-EXTRA CREDIT:
-No extra credit.
-
-BIBLIOGRAPHY:
-N/A
-
-ACKNOWLEDGEMENT:
-N/A
 
 
 
